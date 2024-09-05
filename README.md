@@ -19,7 +19,7 @@ Gemini will respond with a generated message
 Use the theme toggle button to switch between light and dark modes
 Click on a chat message to copy it to the clipboard
 API Documentation
-The Gemini chatbox uses the Generative Language API to generate responses. API documentation can be found here: https://cloud.google.com/language/docs/reference/rest/v1/projects/predict
+The Smartchat uses the Generative Language API to generate responses. API documentation can be found here: https://cloud.google.com/language/docs/reference/rest/v1/projects/predict
 
 Contributing
 Contributions are welcome! If you'd like to contribute to the SmartChat chatbox, please fork the repository and submit a pull request.
